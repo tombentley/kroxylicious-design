@@ -1,4 +1,4 @@
-# <PR-NUMBER> - More specific timer metrics for `SaslTermination`
+# 132 - More specific timer metrics for `SaslTermination`
 
 More specific timer metrics for the `SaslTermination` filter added by [Proposal 124](124-sasl-termination.md).
 
