@@ -1,4 +1,4 @@
-# 133 - <PR-NUMBER> - Allow over-long authentication sessions in `SaslTermination`
+# 133 - Allow over-long authentication sessions in `SaslTermination`
 
 Allow over-long authentication sessions in the `SaslTermination` filter added by [Proposal 124](124-sasl-termination.md).
 
